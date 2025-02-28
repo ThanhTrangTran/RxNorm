@@ -1,0 +1,2 @@
+Background:
+These are SQL exercises developed based on RxNorm, a standardized nomenclature for clinical drugs. Many of the questions range from basics such as drug names and classes to more difficult questions involving clinical knowledge. The SQL queries were developed on PostgreSQL, a free, open-source database management system. Most of the questions have been categorized based on the Anatomical Therapeutic Classification for the drugs. The file will be updated as more practice questions are created.
